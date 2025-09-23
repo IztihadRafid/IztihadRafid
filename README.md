@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating Websites<br>📚 I'm currently learning Next.JS, TypeScript<br>🎯 Goals: Become a Web Developer<br>🎲 off time: Gaming, watching Movies
+✨ Creating Websites<br>📚 I'm currently learning Next.JS, TypeScript<br>🎯 Goals: Become a Web Developer<br>🎲 Off time: Gaming, watching Movies
 
 
 ## 🌐 Socials:
